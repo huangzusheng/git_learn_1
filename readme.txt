@@ -1,3 +1,3 @@
 read me text
 
-dev branch
+create a new branch is quick and simple.
