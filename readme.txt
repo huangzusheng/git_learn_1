@@ -1,3 +1,3 @@
 read me text
 
-brach is quik=========
+create a new branch is quick and simple.
